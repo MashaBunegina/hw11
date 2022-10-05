@@ -3,7 +3,7 @@ import java.time.LocalDate;
 public class Main {
     public static void main(String[] args) {
 
-        printIsEvenYear(2020);
+        printIsEvenYear(2022);
         printOs(1, 2015);
         int deliveryDays = calculateDeliveryDays(60);
         System.out.println("Потребуется дней:" + deliveryDays);
